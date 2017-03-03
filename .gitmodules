@@ -1,0 +1,3 @@
+[submodule "firstChildRepository"]
+	path = firstChildRepository
+	url = https://github.com/mnaranjo/firstChildRepository
